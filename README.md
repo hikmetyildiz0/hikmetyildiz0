@@ -20,11 +20,13 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://huseyinkarayazim.com.tr/assets/img/javascript-logo.png" alt="javascript" width="40" height="40"/></a> 
 <a href="https://www.mongodb.com/" target="_blank">
-<img src="https://huseyinkarayazim.com.tr/assets/img/mongodb-logo.png" alt="mongodb" width="40" height="40"/></a>
-</a> 
+<img src="https://huseyinkarayazim.com.tr/assets/img/mongodb-logo.png" alt="mongodb" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://huseyinkarayazim.com.tr/assets/img/MySQL-Logo.png" alt="mongodb" width="40" height="40"/></a>
- 
+<a href="https://codeigniter.com/" target="_blank">
+<img width="40" height="40" src="https://cdn.cdnlogo.com/logos/c/31/codeigniter.svg"></a>
+<a href="https://getbootstrap.com/" target="_blank">
+<img width="40" height="40" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg"></a>
  
  
  
